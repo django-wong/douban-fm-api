@@ -1,0 +1,18 @@
+{
+  "name": "douban-fm-api",
+  "version": "0.0.1",
+  "description": "DOuban FM api",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "douban-fm"
+  ],
+  "author": "Django Wong",
+  "license": "ISC"
+}
